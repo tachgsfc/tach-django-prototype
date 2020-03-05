@@ -1,3 +1,4 @@
 *.egg-info
 .eggs
+*.sqlite3
 __pycache__
