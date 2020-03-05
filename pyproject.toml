@@ -9,6 +9,8 @@ license = "GPL-3.0-or-later"
 python = "^3.8"
 django = "*"
 djangorestframework = "*"
+pyyaml = "*"
+uritemplate = "*"
 
 [tool.poetry.dev-dependencies]
 
