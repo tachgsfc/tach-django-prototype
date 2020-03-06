@@ -4,7 +4,6 @@ class GCN_notice(models.Model):
     NOTICE_ID = models.IntegerField(primary_key=True)
     NOTICE_TYPE = models.IntegerField()
     NOTICE_TEL_ID = models.IntegerField()
-
     TRIGGER_NUM = models.IntegerField()
     
     GRB_DATE = models.DateField()
